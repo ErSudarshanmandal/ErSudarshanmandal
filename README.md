@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ErSudarshanmandal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Er.Sudarshan Mandal
+- 👀 I’m interested in robotics, python, embedded C
+- 🌱 I’m currently learning Robot Operating System(ROS)
+- 💞️ I’m looking to collaborate on any robotics project
+- 📫 Reach me at er.sudarshanmandal@gmail.com
 
 <!---
 ErSudarshanmandal/ErSudarshanmandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
