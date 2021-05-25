@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Er.Sudarshan Mandal
 - 👀 I’m interested in robotics, python, embedded C
-- 🌱 I’m currently learning Robot Operating System(ROS)
-- 💞️ I’m looking to collaborate on any robotics project
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any beginner level python project
 - 📫 Reach me at er.sudarshanmandal@gmail.com
 
 <!---
